@@ -1,0 +1,1 @@
+import{c as o}from"./index-DT2v4VoK.js";const t=[["path",{d:"m15 18-6-6 6-6",key:"1wnfg3"}]],h=o("chevron-left",t);const e=[["path",{d:"m9 18 6-6-6-6",key:"mthhwq"}]],a=o("chevron-right",e);const c=[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]],d=o("x",c);export{h as C,d as X,a};

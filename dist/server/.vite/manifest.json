@@ -1,0 +1,250 @@
+{
+  "%23tanstack-start-plugin-adapters": {
+    "file": "assets/__23tanstack-start-plugin-adapters-Cwee5PKy.js",
+    "name": "__23tanstack-start-plugin-adapters",
+    "src": "%23tanstack-start-plugin-adapters",
+    "isDynamicEntry": true
+  },
+  "/home/donald-njemi/MesSitesFree/joyce-portfolio/src/styles.css": {
+    "file": "assets/styles-DtE__SSw.css",
+    "src": "/home/donald-njemi/MesSitesFree/joyce-portfolio/src/styles.css"
+  },
+  "_Navbar-C7Z-z4m4.js": {
+    "file": "assets/Navbar-C7Z-z4m4.js",
+    "name": "Navbar",
+    "imports": [
+      "_worker-entry-Ck2t0dRJ.js",
+      "_router-CfQW7UgC.js"
+    ]
+  },
+  "_arrow-left-BCGefUc8.js": {
+    "file": "assets/arrow-left-BCGefUc8.js",
+    "name": "arrow-left",
+    "imports": [
+      "_router-CfQW7UgC.js"
+    ]
+  },
+  "_external-link-C6GzxCNW.js": {
+    "file": "assets/external-link-C6GzxCNW.js",
+    "name": "external-link",
+    "imports": [
+      "_router-CfQW7UgC.js"
+    ]
+  },
+  "_image-CLCx7svq.js": {
+    "file": "assets/image-CLCx7svq.js",
+    "name": "image",
+    "imports": [
+      "_router-CfQW7UgC.js"
+    ]
+  },
+  "_router-CfQW7UgC.js": {
+    "file": "assets/router-CfQW7UgC.js",
+    "name": "router",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-Ck2t0dRJ.js"
+    ],
+    "dynamicImports": [
+      "src/routes/visuels.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component",
+      "src/routes/projets.$slug.tsx?tsr-split=component",
+      "src/routes/projets.$slug.tsx?tsr-split=errorComponent",
+      "src/routes/projets.$slug.tsx?tsr-split=notFoundComponent"
+    ],
+    "assets": [
+      "assets/01-login-DR_CDotv.png",
+      "assets/02-accueil-BBX6JRJD.png",
+      "assets/03-restaurants-DbCK1XQv.png",
+      "assets/04-detail-restaurant-X-gpkPeg.png",
+      "assets/01-usecase-global-14PkEO5y.png",
+      "assets/02-usecase-gerer-demande-9qtQmn3k.png",
+      "assets/03-diagramme-classe-Dn-kI9PP.png",
+      "assets/04-activite-soumettre-demande-JL9EJy-a.png",
+      "assets/05-activite-gerer-conge-fZG6Y_ho.png",
+      "assets/06-sequence-soumettre-demande-DP33UiPG.png",
+      "assets/07-sequence-gerer-conge-NUlvLPJl.png",
+      "assets/01-accueil-BGe6Mes4.jpg",
+      "assets/02-abonnement-BHk_qkkK.png",
+      "assets/03-creation-compte-TA1ixldo.jpg",
+      "assets/04-super-admin-DBn-LY1m.jpg",
+      "assets/05-tableau-bord-admin-BYXUYMFR.jpg",
+      "assets/06-portail-employe-CpbrCXze.jpg",
+      "assets/styles-DtE__SSw.css"
+    ]
+  },
+  "_worker-entry-Ck2t0dRJ.js": {
+    "file": "assets/worker-entry-Ck2t0dRJ.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "_router-CfQW7UgC.js",
+      "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+      "%23tanstack-start-plugin-adapters"
+    ]
+  },
+  "_x-BpwS8CIw.js": {
+    "file": "assets/x-BpwS8CIw.js",
+    "name": "x",
+    "imports": [
+      "_router-CfQW7UgC.js"
+    ]
+  },
+  "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts": {
+    "file": "assets/start-HYkvq4Ni.js",
+    "name": "start",
+    "src": "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+    "isDynamicEntry": true
+  },
+  "src/assets/conges-app/01-accueil.jpg": {
+    "file": "assets/01-accueil-BGe6Mes4.jpg",
+    "src": "src/assets/conges-app/01-accueil.jpg"
+  },
+  "src/assets/conges-app/02-abonnement.png": {
+    "file": "assets/02-abonnement-BHk_qkkK.png",
+    "src": "src/assets/conges-app/02-abonnement.png"
+  },
+  "src/assets/conges-app/03-creation-compte.jpg": {
+    "file": "assets/03-creation-compte-TA1ixldo.jpg",
+    "src": "src/assets/conges-app/03-creation-compte.jpg"
+  },
+  "src/assets/conges-app/04-super-admin.jpg": {
+    "file": "assets/04-super-admin-DBn-LY1m.jpg",
+    "src": "src/assets/conges-app/04-super-admin.jpg"
+  },
+  "src/assets/conges-app/05-tableau-bord-admin.jpg": {
+    "file": "assets/05-tableau-bord-admin-BYXUYMFR.jpg",
+    "src": "src/assets/conges-app/05-tableau-bord-admin.jpg"
+  },
+  "src/assets/conges-app/06-portail-employe.jpg": {
+    "file": "assets/06-portail-employe-CpbrCXze.jpg",
+    "src": "src/assets/conges-app/06-portail-employe.jpg"
+  },
+  "src/assets/joyce.jpg": {
+    "file": "assets/joyce-647_MrJP.jpg",
+    "src": "src/assets/joyce.jpg"
+  },
+  "src/assets/tablebook/01-login.png": {
+    "file": "assets/01-login-DR_CDotv.png",
+    "src": "src/assets/tablebook/01-login.png"
+  },
+  "src/assets/tablebook/02-accueil.png": {
+    "file": "assets/02-accueil-BBX6JRJD.png",
+    "src": "src/assets/tablebook/02-accueil.png"
+  },
+  "src/assets/tablebook/03-restaurants.png": {
+    "file": "assets/03-restaurants-DbCK1XQv.png",
+    "src": "src/assets/tablebook/03-restaurants.png"
+  },
+  "src/assets/tablebook/04-detail-restaurant.png": {
+    "file": "assets/04-detail-restaurant-X-gpkPeg.png",
+    "src": "src/assets/tablebook/04-detail-restaurant.png"
+  },
+  "src/assets/vision-pub/01-usecase-global.png": {
+    "file": "assets/01-usecase-global-14PkEO5y.png",
+    "src": "src/assets/vision-pub/01-usecase-global.png"
+  },
+  "src/assets/vision-pub/02-usecase-gerer-demande.png": {
+    "file": "assets/02-usecase-gerer-demande-9qtQmn3k.png",
+    "src": "src/assets/vision-pub/02-usecase-gerer-demande.png"
+  },
+  "src/assets/vision-pub/03-diagramme-classe.png": {
+    "file": "assets/03-diagramme-classe-Dn-kI9PP.png",
+    "src": "src/assets/vision-pub/03-diagramme-classe.png"
+  },
+  "src/assets/vision-pub/04-activite-soumettre-demande.png": {
+    "file": "assets/04-activite-soumettre-demande-JL9EJy-a.png",
+    "src": "src/assets/vision-pub/04-activite-soumettre-demande.png"
+  },
+  "src/assets/vision-pub/05-activite-gerer-conge.png": {
+    "file": "assets/05-activite-gerer-conge-fZG6Y_ho.png",
+    "src": "src/assets/vision-pub/05-activite-gerer-conge.png"
+  },
+  "src/assets/vision-pub/06-sequence-soumettre-demande.png": {
+    "file": "assets/06-sequence-soumettre-demande-DP33UiPG.png",
+    "src": "src/assets/vision-pub/06-sequence-soumettre-demande.png"
+  },
+  "src/assets/vision-pub/07-sequence-gerer-conge.png": {
+    "file": "assets/07-sequence-gerer-conge-NUlvLPJl.png",
+    "src": "src/assets/vision-pub/07-sequence-gerer-conge.png"
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-_Qz1Jpa6.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-Ck2t0dRJ.js",
+      "_Navbar-C7Z-z4m4.js",
+      "_router-CfQW7UgC.js",
+      "_image-CLCx7svq.js",
+      "_external-link-C6GzxCNW.js"
+    ],
+    "assets": [
+      "assets/joyce-647_MrJP.jpg"
+    ]
+  },
+  "src/routes/projets.$slug.tsx?tsr-split=component": {
+    "file": "assets/projets._slug-aQ3E5Uix.js",
+    "name": "projets._slug",
+    "src": "src/routes/projets.$slug.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-Ck2t0dRJ.js",
+      "_router-CfQW7UgC.js",
+      "_Navbar-C7Z-z4m4.js",
+      "_arrow-left-BCGefUc8.js",
+      "_external-link-C6GzxCNW.js",
+      "_x-BpwS8CIw.js"
+    ]
+  },
+  "src/routes/projets.$slug.tsx?tsr-split=errorComponent": {
+    "file": "assets/projets._slug-iUkaocui.js",
+    "name": "projets._slug",
+    "src": "src/routes/projets.$slug.tsx?tsr-split=errorComponent",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-Ck2t0dRJ.js"
+    ]
+  },
+  "src/routes/projets.$slug.tsx?tsr-split=notFoundComponent": {
+    "file": "assets/projets._slug-C9FQCgKg.js",
+    "name": "projets._slug",
+    "src": "src/routes/projets.$slug.tsx?tsr-split=notFoundComponent",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-Ck2t0dRJ.js",
+      "_router-CfQW7UgC.js",
+      "_arrow-left-BCGefUc8.js"
+    ]
+  },
+  "src/routes/visuels.tsx?tsr-split=component": {
+    "file": "assets/visuels-CjwEovQI.js",
+    "name": "visuels",
+    "src": "src/routes/visuels.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-Ck2t0dRJ.js",
+      "_router-CfQW7UgC.js",
+      "_Navbar-C7Z-z4m4.js",
+      "_arrow-left-BCGefUc8.js",
+      "_image-CLCx7svq.js",
+      "_x-BpwS8CIw.js"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-CrlVJRUD.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-Ck2t0dRJ.js"
+    ]
+  }
+}
